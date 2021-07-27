@@ -158,7 +158,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 ## **Zprávy**
 
-[Riziková místa pro vydru říční na silnicích pro Ústecký kraj (pdf)](/media/Rizikova_mista-vydra_Ustecky_kraj_1.pdf)
+[Riziková místa pro vydru říční na silnicích pro Ústecký kraj (pdf)](/media/Rizikova_mista_vydra_Ustecky_kraj_1.pdf)
 
 [Zhodnocení prostředí toků z pohledu vydry říční pro Ústecký kraj (pdf)](</media/Charakteristika_prostredi_vydra_Ustecky_kraj_1.pdf>)
 
