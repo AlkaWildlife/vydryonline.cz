@@ -149,6 +149,10 @@ horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
 # **Výstupy a výsledky projektu**
 
+## Leták
+
+[Informační leták o projektu](/media/Lutralutra_flayer_cz.pdf)
+
 ## **Akce**
 
 Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena.  
@@ -199,3 +203,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 ## **Brožura**
 
 [Informační brožura o vydře říční, výsledcích projektu a s katalogem opatření ](/media/informationsbroschuere_fischotter.pdf)
+
+Příloha [Gewässerschau - Einzelbetrachtung Fließgewässer - Ergebnisse und Bewertung](/media/fliessgewaesserschau_lutra_lutra_web.pdf)
+
+Příloha [Seznam opatření pro ochranu vydry říční](/media/massnahmenpool_lutra_lutra_web.pdf)
