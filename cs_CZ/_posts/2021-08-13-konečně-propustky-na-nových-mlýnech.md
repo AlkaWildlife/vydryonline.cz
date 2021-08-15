@@ -1,6 +1,6 @@
 ---
 title: Konečně propustky na Nových Mlýnech!
-published: false
+published: true
 image: /media/imag0120vydra_05.jpg
 listing_thumbnail: /media/imag0120vydra_05_274.jpg
 description: >
@@ -29,7 +29,7 @@ Jak dále dodává, kontrolou propustků a instalací fotopastí bylo již po n�
 
 _Již týdny po vybudování propustků zvířata cestu našla a využívají ji ((c) ALKA Wildlife)_
 
-__
+<iframe width="560" height="315" src="https://www.youtube.com/embed//mcIuBSLqjAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vzhledem ke specifikům popsaného území i jedinečnosti řešení budou ochranáři účinnost opatření i nadále sledovat. Zároveň vznikne statistika, která vyhodnotí úhyn živočichů na silnici I/52 v daném úseku a srovnána s výsledky z roku 2019, tj. před vybudováním cyklostezky. 
 
