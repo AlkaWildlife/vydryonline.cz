@@ -1,10 +1,11 @@
 ---
-title: Dá se někde koupit Vydra legálně?
+title: Dá se někde koupit vydra legálně?
 published: true
 author: Kateřina Poledníková
 description: >-
-  Není možné si vydru koupit legálně. Chovat vydru je velmi náročné a nejde o
-  domácího mazlíčka. Je to divoké silné zvíře s velmi vysokými nároky na péči.
+  Není možné si vydru koupit legálně, je chráněná, legální odchovy pro prodej
+  neexistují. Chovat vydru je navíc velmi náročné a nejde o domácího mazlíčka.
+  Je to divoké silné zvíře s velmi vysokými nároky na péči.
 tags:
   - vydra
 lang_alternatives:
