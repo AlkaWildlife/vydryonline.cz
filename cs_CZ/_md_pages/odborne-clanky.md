@@ -10,6 +10,8 @@ Publikace jsou seřazeny dle účelu a časově.
 
 # Články pro veřejnost
 
+[Vydry říční v Krušných horách a Mostecké pánvi](https://www.myslivost.cz/Casopis-Myslivost/MYSLIVOST-Straz-myslivosti/2021/Cerven-2021/Vydry-v-Krusnych-horach-a-Mostecke-panvi) / Myslivost 06/2021
+
 [Sběr a analýzy uhynulých vyder v České
 republice](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)\
 brožuřa, publikováno 2017 (pdf)
@@ -31,9 +33,7 @@ Ochrana přírody 4/2011 (pdf; 3,4 MB)
 [Program péče o vydru říční](/media/vydra_000496.pdf)\
 Ochrana přírody 3/2007 (220 kB)
 
-[Můj život s vydrou](http://www.czech-press.cz/index.php?option=com_content&view=article&id=2027:mj-ivot-s-vydrou-sp-282395120&catid=1615&Itemid=148)
-
-časopis Koktejl 1/2002
+[Můj život s vydrou](http://www.czech-press.cz/index.php?option=com_content&view=article&id=2027:mj-ivot-s-vydrou-sp-282395120&catid=1615&Itemid=148) / časopis Koktejl 1/2002
 
 # Odborné publikace
 
