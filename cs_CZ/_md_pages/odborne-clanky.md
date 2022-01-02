@@ -12,6 +12,8 @@ Publikace jsou seřazeny dle účelu a časově.
 
 [Vydry říční v Krušných horách a Mostecké pánvi](https://www.myslivost.cz/Casopis-Myslivost/MYSLIVOST-Straz-myslivosti/2021/Cerven-2021/Vydry-v-Krusnych-horach-a-Mostecke-panvi) / Myslivost 06/2021
 
+[Vydra říční - ohrožený druh i rybožravý predátor](media/Rybarstvi_2021_01_Hlavacetal_vydra.pdf) / Rybářství 2021-01
+
 [Sběr a analýzy uhynulých vyder v České
 republice](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)\
 brožuřa, publikováno 2017 (pdf)
