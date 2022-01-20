@@ -6,7 +6,7 @@ image: /media/bulletin_vydra_15.jpg
 long_title: Bulletin Vydra 15
 description: publikováno 2012
 listed: true
-position: 4
+position: 5
 layout: two_columns_page
 aside_title: další čísla
 ---
