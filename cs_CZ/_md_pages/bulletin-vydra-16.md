@@ -6,7 +6,7 @@ image: /media/bulletin16_cover.jpg
 long_title: Bulletin Vydra 16
 description: publikováno 2015
 listed: true
-position: 3
+position: 4
 layout: two_columns_page
 aside_title: další čísla
 ---
