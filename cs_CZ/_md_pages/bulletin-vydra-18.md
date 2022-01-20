@@ -18,4 +18,4 @@ Ernest Bethlenfalvy a ochrana vydry riečnej / _strany 4-9 (Rešerše)_ / Peter 
 
 Rozšírenie a ochranársky status vydry riečnej (Lutra lutra) v Slovenskej republike za obdobie rokov 2013 – 2019 / _strany 10 - 24 (Odborný článek)_ / Ján Černecký, Peter Gajdoš, Viktória Ďuricová, Peter Urban /  [PDF (1,2 MB)](/media/Cernecky_etal_10_24.pdf)
 
-Rozšíření vydry říční (Lutra lutra) v České republice v roce 2021 / _strany 25 - 35 (Odborný článek)_ / Lukáš Poledník, Václav Beran, Štěpán Zápotočný a Kateřina Poledníková / [PDF (1,6 MB)](/nedia/Polednik_etal_25_35.pdf)
+Rozšíření vydry říční (Lutra lutra) v České republice v roce 2021 / _strany 25 - 35 (Odborný článek)_ / Lukáš Poledník, Václav Beran, Štěpán Zápotočný a Kateřina Poledníková / [PDF (1,6 MB)](/media/Polednik_etal_25_35.pdf)
