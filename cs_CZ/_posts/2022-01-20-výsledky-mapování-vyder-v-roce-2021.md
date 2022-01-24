@@ -1,6 +1,6 @@
 ---
 title: Výsledky mapování vyder v roce 2021
-published: false
+published: true
 image: /media/vydra_mapa_2021_k.jpg
 listing_thumbnail: /media/vydra_mapa_2021_k_274.jpg
 description: >-
@@ -16,9 +16,9 @@ Opakovaný monitoring populace ohroženého druhu je základním kamenem pro sle
 
 Mapování proběhlo od září do prosince 2021, kdy bylo zkontrolováno 2 501 bodů. 81 % kontrolních bodů bylo pozitivních. Základních monitorovacích kvadrátů bylo pozitivních 99 %, podkvadrátů 83 %. Podkvadráty s negativním výsledkem pochází zejména z oblasti Polabí a jižní Moravy. Roztroušeně se ale negativní kvadráty nacházejí i na Ostravsku, v centrální části ČR a na jihozápadě Čech.
 
-Aktuálně se tedy vydra říční vyskytuje na celém území ČR. Nárůst areálu byl zaznamenán zejména ve středním Polabí, na jižní Moravě a v Podkrušnohoří, v oblastech, které ještě v roce 2016 nebyly zcela obsazeny, a stále je zde vysoký poměr negativních záznamů. Nově negativní body se nachází roztroušeně na velké části území ČR, zejména na Ostravsku, v centrální části ČR a na jihozápadě. Nejedná se o celistvá území bez výskytu vyder, ale výskyt negativních pozorování může naznačovat aktuální pokles hustot. 
+Aktuálně se tedy vydra říční vyskytuje na celém území ČR. Mírný nárůst areálu byl zaznamenán ve středním Polabí, na jižní Moravě a v Podkrušnohoří, v oblastech, které ještě v roce 2016 nebyly zcela obsazeny, a stále je zde vysoký poměr negativních záznamů. Nově negativní body se nachází roztroušeně na velké části území ČR, zejména na Ostravsku, v centrální části ČR a na jihozápadě. Nejedná se o celistvá území bez výskytu vyder, ale výskyt negativních pozorování může naznačovat aktuální pokles hustot v těchto oblastech. 
 
-Výsledky mapování jsou publikovány v aktuálním čísle Bulletinu Vydra č. 18.
+Výsledky mapování jsou publikovány v [aktuálním čísle Bulletinu Vydra č. 18](/media/Polednik_etal_25_35.pdf).
 
 Historický vývoj populace je shrnut [zde](/vydra/o-vydre/rozsireni-vydry-ricni-v-ceske-republice).
 
