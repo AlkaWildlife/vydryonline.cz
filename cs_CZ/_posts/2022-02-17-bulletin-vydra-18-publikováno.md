@@ -1,5 +1,5 @@
 ---
-title: Bulletin Vydra 18 publikováno
+title: Bulletin Vydra 18 publikován
 published: true
 image: /media/bulletin_vydra_18_cover_picture.jpg
 listing_thumbnail: /media/bulletin_vydra_18_cover_picture-274.jpg
