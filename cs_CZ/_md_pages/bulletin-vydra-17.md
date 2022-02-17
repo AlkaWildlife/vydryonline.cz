@@ -2,7 +2,7 @@
 title: Bulletin Vydra 17
 published: true
 permalink: /ke-stazeni/bulletin-vydra/bulletin-vydra-17
-image: /media/cover_610.JPG
+image: ''
 long_title: Bulletin vydra 17
 description: publikováno 2018
 listed: true
