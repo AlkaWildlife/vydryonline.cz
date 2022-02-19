@@ -1,8 +1,8 @@
 ---
 title: Výzva
-permalink: "/vydra/vydry-a-silnice/vyzva"
-image: "/media/a_039_VH_610.jpg"
 published: true
+permalink: /vydra/vydry-a-silnice/vyzva
+image: /media/a_039_VH_610.jpg
 listed: true
 position: 1
 layout: two_columns_page
@@ -22,6 +22,8 @@ frekventovaná doprava a jiné faktory. S Vaší pomocí chceme získat
 informace, které budou dále použity při její ochraně i ochraně dalších
 živočichů, kteří využívají stejné prostředí jako vydry. Více se o sběru
 a analýzách dozvíte [zde](sber-uhynulych-vyder).
+
+Sběr a analýzy kadáverů provádíme ve spolupráci s Agenturou ochrany přírody a krajiny ČR. I uhynulá vydra je chráněná podle Zákona 114/1992, proto máme ke sběru a analýzám vyřízené výjimky ze zákona. 
 
 # Postup při nálezu uhynulé vydry
 
@@ -50,7 +52,7 @@ Z různých částí uhynulých jedinců je možné zjistit řadu údajů, prot
 jsou pro nás cenná nejen celá zvířata, ale i zbytky v jakémkoliv
 stádiu – rozjeté „fleky“ na silnici, zbytky po preparaci či pitvě.
 
-***Jménem vyder a řešitelů projektu mnohokrát děkujeme.***
+_**Jménem vyder a řešitelů projektu mnohokrát děkujeme.**_
 
 [Protokol_uhynule_vydry.pdf](/media/Protokol_uhynule_vydry.pdf)
 
