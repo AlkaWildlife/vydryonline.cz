@@ -147,19 +147,13 @@ vydry dlouhodobě stabilní vhodné prostředí.
 [Začínáme výzkum vyder v Krušných
 horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
+
+
 # **Výstupy a výsledky projektu**
 
-## Leták
+## Výstava
 
-[Informační leták o projektu](/media/Lutralutra_flayer_cz.pdf)
-
-## **Akce**
-
-Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena.  
-
-30.8.2020 [Info stánek v Děčíně](/news/vyd%C5%99%C3%AD-info-st%C3%A1nek)
-
-11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
+[Putovní výstava "Ich bin ein vydra"](https://www.vydryonline.cz/news/v%C3%BDstava-lutra-lutra)  
 
 ## **Články a reportáže v médiích**
 
@@ -207,3 +201,15 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 Příloha [Gewässerschau - Einzelbetrachtung Fließgewässer - Ergebnisse und Bewertung](/media/fliessgewaesserschau_lutra_lutra_web.pdf)
 
 Příloha [Seznam opatření pro ochranu vydry říční](/media/massnahmenpool_lutra_lutra_web.pdf)
+
+## Leták
+
+[Informační leták o projektu](/media/Lutralutra_flayer_cz.pdf)
+
+## **Akce**
+
+Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena.  
+
+30.8.2020 [Info stánek v Děčíně](/news/vyd%C5%99%C3%AD-info-st%C3%A1nek)
+
+11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
