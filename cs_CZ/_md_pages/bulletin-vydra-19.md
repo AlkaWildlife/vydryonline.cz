@@ -15,11 +15,13 @@ publikováno 2021
 
 <br/> 
 
-kompletní číslo [(PDF 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
+# česká verze / Tschechische Version
+
+****[**kompletní číslo (PDF 20 MB)**](/media/bulletin_VYDRA_19_complet_web.pdf)****
 
 <br/> 
 
-# JEDNOTLIVÉ PŘÍSPĚVKY
+## JEDNOTLIVÉ PŘÍSPĚVKY
 
 **Výskyt vydry říční ve východní části Krušných hor a jejich podhůří v České republice a Sasku v letech 2019 2020** / Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K. / strany 7-25 / [(PDF 4 MB)](/media/bulletin_VYDRA_19_Polednik_etal_occurence_7_25.pdf)
 
@@ -33,7 +35,7 @@ kompletní číslo [(PDF 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
 <br/>
 
-# německá verze / deutsche Version
+# německá verze / Deutsche Version
 
 [**komplette Edition (19 MB)**](/media/bulletin_VYDRA_german_web.pdf)
 
