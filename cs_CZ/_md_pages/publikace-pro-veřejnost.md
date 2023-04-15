@@ -1,6 +1,6 @@
 ---
 title: Publikace pro veřejnost
-published: false
+published: true
 permalink: /ke-stazeni/publikace-verejnost
 listed: true
 position: 3
