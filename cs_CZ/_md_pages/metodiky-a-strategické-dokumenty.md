@@ -1,6 +1,6 @@
 ---
 title: Metodiky a strategické dokumenty
-published: false
+published: true
 permalink: /media/metodiky_strategie
 listed: true
 position: 4
