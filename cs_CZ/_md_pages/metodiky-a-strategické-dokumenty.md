@@ -1,7 +1,7 @@
 ---
 title: 'Metodiky '
 published: true
-permalink: /media/metodiky
+permalink: /ke-stazeni/metodiky
 listed: true
 position: 4
 layout: two_columns_page
