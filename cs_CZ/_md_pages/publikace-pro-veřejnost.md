@@ -3,7 +3,7 @@ title: Publikace pro veřejnost
 published: true
 permalink: /ke-stazeni/publikace-verejnost
 listed: true
-position: 3
+position: 1
 layout: two_columns_page
 lang_alternatives:
   en_GB: {}
