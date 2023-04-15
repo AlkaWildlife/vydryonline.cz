@@ -8,28 +8,25 @@ layout: two_columns_page
 ---
 Publikace jsou seřazeny dle účelu a časově.
 
-# Články pro veřejnost
+# Články a publikace pro veřejnost
 
 [Vydry říční v Krušných horách a Mostecké pánvi](https://www.myslivost.cz/Casopis-Myslivost/MYSLIVOST-Straz-myslivosti/2021/Cerven-2021/Vydry-v-Krusnych-horach-a-Mostecke-panvi) / Myslivost 06/2021
 
 [Vydra říční - ohrožený druh i rybožravý predátor](media/Rybarstvi_2021_01_Hlavacetal_vydra.pdf) / Rybářství 2021-01
 
-[Sběr a analýzy uhynulých vyder v České
-republice](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)\
+[Sběr a analýzy uhynulých vyder v České republice](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)\
 brožuřa, publikováno 2017 (pdf)
 
 [Povídání o vydře a norkovi](/vydra/o-vydre/povidani-o-vydre-v-myslivosti)\
 seriál v časopise Myslivost
 
-[K čemu nám jsou kadávery
-vyder?](/media/Myslivost_Vydra_2015_FINAL.pdf)\
+[K čemu nám jsou kadávery vyder?](/media/Myslivost_Vydra_2015_FINAL.pdf)\
 Myslivost 8/2015 (pdf)
 
 [Vydra říční na Dačicku](/media/Da_icko_11_polednikova_vydra.pdf)\
 Dačický vlastivědný sborník VII/2013 (pdf; 241 kB)
 
-[Databáze údajů o uhynulých jedincích vydry říční
-v ČR](/media/ochrana_prirody_databaze_vyder.pdf)\
+[Databáze údajů o uhynulých jedincích vydry říční v ČR](/media/ochrana_prirody_databaze_vyder.pdf)\
 Ochrana přírody 4/2011 (pdf; 3,4 MB)
 
 [Program péče o vydru říční](/media/vydra_000496.pdf)\
