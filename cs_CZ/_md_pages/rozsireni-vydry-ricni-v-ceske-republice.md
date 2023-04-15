@@ -37,18 +37,18 @@ Výsledek mapování v roce 2016 (Poledník a spol. 2018)
 
 ![Výskyt vydry říční v roce 2016](/media/vydra_2016.jpg)
 
-
-
-****
+- - -
 
 **Publikace s detailními výsledky jednotlivých mapování:**
 
-Toman A (1992): První výsledky “Akce Vydra”. Bulletin Vydra, 3: 3 - 8.
+Toman A (**1992**): První výsledky “Akce Vydra”. Bulletin Vydra, 3: 3 - 8.
 
-Kučerová M., Roche K. a Toman A. (2001): Rozšíření vydry říční (_Lutra lutra_) v České republice. Bulletin Vydra 11: 37 - 39.
+Kučerová M., Roche K. a Toman A. (**2001**): Rozšíření vydry říční (_Lutra lutra_) v České republice. Bulletin Vydra 11: 37 - 39.
 
-Poledník L., Poledníková K. A Hlaváč V. (2007): Rozšíření vydry říční (_Lutra lutra_) v České republice v roce 2006. Bulletin Vydra 14: 4 - 6.
+Poledník L., Poledníková K. A Hlaváč V. (**2007**): Rozšíření vydry říční (_Lutra lutra_) v České republice v roce 2006. Bulletin Vydra 14: 4 - 6.
 
-[Polednik L., Poledníková K., Beran V., Čamlík G., Záptočný Š. a Kranz A. (2012): Rozšíření vydry říční v Ćeské republice v roce 2011. Bulletin Vydra 15: 22–28](/media/Polednik_etal_22_28.pdf)
+[Polednik L., Poledníková K., Beran V., Čamlík G., Záptočný Š. a Kranz A. (**2012**): Rozšíření vydry říční v Ćeské republice v roce 2011. Bulletin Vydra 15: 22–28](/media/Polednik_etal_22_28.pdf)
 
-[Poledník L., Poledníková K., Beran V., Čamlík G., Prauz L., Mateos-González F. (2018): Rozšíření vydry říční (_Lutra lutra _L.) v České republice v roce 2016. Bulletin Vydra 17: 4 - 13. ](/media/Polednik_etal_4_13.pdf)
+[Poledník L., Poledníková K., Beran V., Čamlík G., Prauz L., Mateos-González F. (**2018**): Rozšíření vydry říční (_Lutra lutra _L.) v České republice v roce 2016. Bulletin Vydra 17: 4 - 13. ](/media/Polednik_etal_4_13.pdf)
+
+[Poledník L., Beran V., Zápotočný Š. a Poledníková K. (2021): Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2021. Bulletin Vydra 18:25-35.](/media/Polednik_etal_25_35.pdf)
