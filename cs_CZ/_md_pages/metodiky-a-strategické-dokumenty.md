@@ -8,12 +8,6 @@ layout: two_columns_page
 lang_alternatives:
   en_GB: {}
 ---
-
-[Program péče pro vydru říční (_Lutra lutra_) v České republice v letech 2009–2018](/media/program-pece-pro-vydru-ricni-2009-2018.pdf)\
-Poledník L., Poledníková K., Roche M., Hájková P., Toman A., Václavíková
-M., Hlaváč V., Beran V., Nová P., Marhoul P., Pacovská M., Růžičková O.,
-Mináriková T. a Větrovcová J. (2009): MŽP. (česky; pdf; 2,4 MB)
-
 [Opatření k zajištění propustnosti komunikací pro vydry a další drobné savce](/media/SPPK-E-02-003-standard_vydra_komunikace_2023.pdf)\ Poledníková K., Poledník L., Strnad M. (2023): Standard péče o přírodu a krajinu AOPK ČR (česky; pdf 2MB)
 
 [Vydra a doprava. Příručka k omezení negativního vlivu dopravy na vydru říční](/media/vydra_a_doprava_-_web_1.pdf)\
@@ -30,4 +24,3 @@ Protokol ke sběru uhynulé vydry říční (pdf; 200 kB)
 
 [Vydra a EIA](/media/iucnosg_doporuceni_vydra.pdf)\
 Doporučení IUCN Otter Specialist Group (pdf; 53 kB)
-
