@@ -1,7 +1,7 @@
 ---
-title: Metodiky a strategické dokumenty
+title: 'Metodiky '
 published: true
-permalink: /media/metodiky_strategie
+permalink: /media/metodiky
 listed: true
 position: 4
 layout: two_columns_page
