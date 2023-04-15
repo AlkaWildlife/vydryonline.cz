@@ -1,7 +1,7 @@
 ---
 title: 'Pravdy a nepravdy o vydře '
 published: true
-permalink: /vydra/o-vydre/pravdy-a-nepravdy-o-vydre
+permalink: /vydrapravdy-a-nepravdy-o-vydre
 image: /media/vydra011.jpg
 description: >-
   Vzhledem k intenzivní diskusi, která se strhla okolo naší populace vyder,
@@ -9,7 +9,7 @@ description: >-
   některé otázky, fámy, popsat vývoj populace, její chování. Odpovědi budeme
   přidávat postupně v rámci našich možností. 
 listed: false
-position: 1
+position: 3
 layout: two_columns_page
 ---
 Vydra je konfliktní druh – je to predátor, který mimo jiné konzumuje komerční druhy ryb, a tím se dostává do konfliktu s rybáři a rybníkáři. Chybějící ryby, šupiny či krev na břehu pak pochopitelně vyvolávají emoce. A emoce jsou vstupní branou pro přijímání různých nepravd v neprospěch původce. Náš tým se zabývá výzkumem vydry říční již přes 20 let a před námi byli jiní, máme nastudovány zahraniční studie, a tak dovolte uvést na pravou míru celou řadu nepravd, které se šíří ať už úmyslně či jen z neznalosti (která je i pochopitelná – je to druh skrytě žijící, kdo se mu nevěnuje intenzivně, může mít zkreslené představy).
