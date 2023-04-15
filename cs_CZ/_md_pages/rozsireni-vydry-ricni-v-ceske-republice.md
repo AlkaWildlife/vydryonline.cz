@@ -1,10 +1,10 @@
 ---
 title: "Rozšíření vydry říční v\_ČR"
 published: true
-permalink: /vydra/o-vydre/rozsireni-vydry-ricni-v-ceske-republice
+permalink: /vydra/rozsireni-vydry-ricni-v-ceske-republice
 long_title: "Rozšíření vydry říční v\_České republice"
 listed: true
-position: 1
+position: 4
 layout: two_columns_page
 ---
 V České republice vydra říční zaznamenala výrazné změny v početnosti. Dle dostupných historických údajů byla vydra až do poloviny 19. století rozšířena po celém území České republiky. K výrazným změnám areálu
