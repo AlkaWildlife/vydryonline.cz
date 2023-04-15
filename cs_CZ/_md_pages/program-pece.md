@@ -1,11 +1,9 @@
 ---
 title: Program péče
-permalink: "/vydra/o-vydre/program-pece"
-image: "/media/vydra4B_610.jpg"
-long_title: >-
-  Program péče pro vydru říční (*Lutra lutra*) v České republice
-  v letech 2009–2018
 published: true
+permalink: /ke-stazeni/program-pece
+image: /media/vydra4B_610.jpg
+long_title: "Program péče pro vydru říční (*Lutra lutra*) v\_České republice v\_letech 2009–2018"
 listed: true
 position: 8
 layout: two_columns_page
