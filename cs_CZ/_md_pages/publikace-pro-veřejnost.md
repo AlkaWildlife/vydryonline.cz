@@ -24,7 +24,7 @@ Dačický vlastivědný sborník VII/2013
 [Databáze údajů o uhynulých jedincích vydry říční v ČR](/media/ochrana_prirody_databaze_vyder.pdf)\
 Ochrana přírody 4/2011
 
-[Povídání o vydře a norkovi](/vydra/o-vydre/povidani-o-vydre-v-myslivosti)\
+[Povídání o vydře a norkovi](/vydra/povidani-o-vydre-v-myslivosti)\
 seriál v časopise Myslivost, 2009
 
 [Program péče o vydru říční](/media/vydra_000496.pdf)\
