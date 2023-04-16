@@ -1,9 +1,9 @@
 ---
-title: Pytláctví vyder v ČR
-permalink: "/vydra/o-vydre/pytlactvi-vyder-v-cr"
-image: "/media/IMG_8976.JPG"
-long_title: Příklady pytláctví vyder v ČR
+title: "Pytláctví vyder v\_ČR"
 published: true
+permalink: /vydra/pytlactvi-vyder-v-cr
+image: /media/IMG_8976.JPG
+long_title: "Příklady pytláctví vyder v\_ČR"
 listed: true
 position: 5
 layout: two_columns_page
@@ -103,3 +103,7 @@ v roce 2008.
 Těžce postřelená vydra byla nalezena u Mníšku v CHKO Třeboňsko
 v prosinci 2014. I když bylo zvíře ihned operováno v záchranné stanici
 ZOO Ohrada, kvůli vnitřnímu krvácení uhynulo.
+
+
+
+Všechny zdokumentované případy pytláctví vyder do roku 2017 jsou shrnuty v publikaci [Statistika nelegálního zabíjení vydry říční v České republice](/media/Polednikova_etal_58_66.pdf)
