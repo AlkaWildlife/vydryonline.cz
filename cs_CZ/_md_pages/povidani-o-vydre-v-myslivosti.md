@@ -1,7 +1,7 @@
 ---
 title: "Povídání v\_Myslivosti"
 published: true
-permalink: /vydra/o-vydre/povidani-o-vydre-v-myslivosti
+permalink: /vydra/povidani-o-vydre-v-myslivosti
 image: /media/P7010003_610.jpg
 long_title: "Povídání o\_vydře v\_časopise Myslivost"
 listed: true
