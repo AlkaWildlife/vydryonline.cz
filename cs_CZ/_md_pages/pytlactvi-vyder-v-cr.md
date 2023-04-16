@@ -5,7 +5,7 @@ permalink: /vydra/pytlactvi-vyder-v-cr
 image: /media/IMG_8976.JPG
 long_title: "Příklady pytláctví vyder v\_ČR"
 listed: true
-position: 5
+position: 7
 layout: two_columns_page
 ---
 Ilegální lov je výsledek minimální tolerance a nerespektování zákonů ze
