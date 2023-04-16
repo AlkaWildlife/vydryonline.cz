@@ -1,10 +1,10 @@
 ---
 title: Legislativní status
-permalink: "/vydra/o-vydre/legislativni-statut"
-long_title: Legislativní status vydry říční
 published: true
+permalink: /vydra/legislativni-statut
+long_title: Legislativní status vydry říční
 listed: true
-position: 6
+position: 8
 layout: two_columns_page
 ---
 # Status vydry říční
