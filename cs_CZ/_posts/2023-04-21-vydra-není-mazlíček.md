@@ -3,6 +3,7 @@ title: Vydra není mazlíček
 published: true
 image: /media/vydra_mazel_620.jpg
 listing_thumbnail: /media/vydra_mazel_274.jpg
+description: Pořídit si vydru je cool. Nebo ne?
 date: '2023-04-21'
 lang_alternatives:
   en_GB:
