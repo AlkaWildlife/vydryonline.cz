@@ -1,8 +1,8 @@
 ---
-title: O vydře
-permalink: "/vydra/o-vydre"
-image: "/media/Vydra-ricni-948a_610.jpg"
-published: true
+title: "O\_vydře"
+published: false
+permalink: /vydra/o-vydre
+image: /media/Vydra-ricni-948a_610.jpg
 listed: true
 position: 3
 layout: single_column_page
