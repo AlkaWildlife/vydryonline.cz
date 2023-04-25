@@ -8,7 +8,7 @@ description: >-
   zřídili jsme stránku "Pravdy a nepravdy o vydře", kde se pokusíme vysvětlit
   některé otázky, fámy, popsat vývoj populace, její chování. Odpovědi budeme
   přidávat postupně v rámci našich možností. 
-listed: false
+listed: true
 position: 3
 layout: two_columns_page
 ---
