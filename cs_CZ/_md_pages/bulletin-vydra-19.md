@@ -17,7 +17,7 @@ publikováno 2021
 
 # česká verze / Tschechische Version
 
-**[**kompletní číslo (PDF 20 MB)**](/media/bulletin_VYDRA_19_complet_web.pdf)**
+[kompletní číslo (PDF 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
 <br/> 
 
