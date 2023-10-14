@@ -2,7 +2,7 @@
 title: Bulletin Vydra 16
 published: true
 permalink: /ke-stazeni/bulletin-vydra/bulletin-vydra-16
-image: ''
+image: /media/bulletin16_cover.jpg
 long_title: Bulletin Vydra 16
 description: publikováno 2015
 listed: true
