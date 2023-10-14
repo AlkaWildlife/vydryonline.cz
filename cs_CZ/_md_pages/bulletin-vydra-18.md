@@ -2,6 +2,7 @@
 title: Bulletin Vydra 18
 published: true
 permalink: /ke-stazeni/bulletin-vydra/bulletin-vydra-18
+image: /media/bulletin_vydra_18_cover_picture.jpg
 description: publikováno 2021
 listed: true
 position: 2
