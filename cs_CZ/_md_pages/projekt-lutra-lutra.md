@@ -2,6 +2,10 @@
 title: Projekt Lutra lutra
 published: true
 permalink: /projekty/projekt-lutra-lutra
+description: >-
+  Výzkumný projekt v Česko-saském pohraničí, realizovaný 2017 – 2020, finanční
+  zdroje: Programu na podporu přeshraniční spolupráce mezi Českou republikou a
+  Svobodným státem Sasko 2014–2020
 listed: true
 position: 2
 layout: two_columns_page
