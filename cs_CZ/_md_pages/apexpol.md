@@ -27,7 +27,9 @@ SQ01010345
 
 Program Prostředí pro život 2
 
-![](/media/logo_tacr_zakl_inv_300.png)
+![](/media/ppž_červene-pozadi_300.jpg)
+
+
 
 ## Trvání
 
