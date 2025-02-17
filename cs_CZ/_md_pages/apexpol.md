@@ -10,6 +10,7 @@ description: >-
   Hlavním cílem projektu je vyvinout a otestovat metodiku hodnocení kontaminace
   vodních ekosystémů pomocí analýzy tkání vrcholového rybožravého predátora –
   vydry říční.
+listed: true
 position: 1
 layout: two_columns_page
 logoset: TACR
@@ -20,49 +21,27 @@ lang_alternatives:
 
 SQ01010345
 
-
-
 ## Financování
 
 [TAČR](https://www.tacr.cz)
 
-
-
 Program Prostředí pro život 2
 
-
-
-
-
-
+![](/media/logo_tacr_zakl_inv_300.png)
 
 ## Trvání
 
 1/2025 – 12/2027
 
-
-
 ## Partneři
 
 Hlavní uchazeč: Přírodovědecká fakulta Karlova Univerzita
 
-
-
 Další partneři:
-
-
 
 ALKA Wildlife, o.p.s.
 
-
-
 Fakulta chemicko-technologická Univerzita Pardubice
-
-
-
-
-
-
 
 ## Cíle
 
