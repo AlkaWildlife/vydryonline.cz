@@ -2,7 +2,7 @@
 title: ApexPol
 published: true
 permalink: /projekty/ApexPol
-long_title: /projekty/ApexPol
+long_title: ApexPol
 subtitle: >-
   Analýza kadáverů vydry říční (Lutra lutra) jako nástroj pro monitoring
   bioakumulativních polutantů ve vodních ekosystémech
@@ -24,7 +24,7 @@ SQ01010345
 
 ## Financování
 
-[TAČR](www.tacr.cz)
+[TAČR](https://www.tacr.cz)
 
 
 
