@@ -9,7 +9,7 @@ description: >-
 date: '2025-02-17'
 lang_alternatives:
   en_GB: {}
-logoset: ''
+logoset: TACR
 category: news
 layout: news
 ---
