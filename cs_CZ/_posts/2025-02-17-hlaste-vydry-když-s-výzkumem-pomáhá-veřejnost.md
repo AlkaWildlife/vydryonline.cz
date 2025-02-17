@@ -13,8 +13,6 @@ logoset: ''
 category: news
 layout: news
 ---
-
-
 Je možné pomocí vrcholových predátorů sledovat kontaminaci životního prostředí novými typy polutantů, kterými jsou například v současnosti tolik diskutované a všudypřítomné nebezpečné per- a polyfluoroalkylované látky (PFAS)? Mohou se v tělech predátorů významně koncentrovat i další rizikové prvky, např. těžké kovy? Lze analýzami koncentrací těchto látek v živočišných tkáních vyhodnotit jejich bioakumulaci ve vodním prostředí?
 
 Na tyto a další otázky se pokusí odpovědět projekt[ ApexPol: Analýza kadáverů vydry říční (Lutra lutra) jako nástroj pro monitoring bioakumulativních polutantů ve vodních ekosystémech](https://www.alkawildlife.eu/projects/anal%C3%BDza-kad%C3%A1ver%C5%AF-vydry-%C5%99%C3%AD%C4%8Dn%C3%AD-jako-n%C3%A1stroj-pro-monitoring-polutant%C5%AF-ve-vodn%C3%ADch-ekosyst%C3%A9mech).
