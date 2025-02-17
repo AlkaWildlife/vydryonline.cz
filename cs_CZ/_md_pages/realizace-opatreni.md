@@ -1,9 +1,10 @@
 ---
 title: Realizace opatření ZP
-permalink: "/projekty/realizace-opatreni"
-image: "/media/Projektove_foto_610.jpg"
-long_title: Realizace vybraných opatření PP
 published: true
+permalink: /projekty/realizace-opatreni
+image: /media/Projektove_foto_610.jpg
+long_title: Realizace vybraných opatření PP
+description: "Projekt řešil vybraná opatření Programu péče pro vydru říční v\_České republice v letech 2017 – 2020, finanční zdroje: EHP fondy"
 listed: true
 position: 1
 layout: single_column_page
