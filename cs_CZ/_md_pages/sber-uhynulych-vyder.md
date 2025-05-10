@@ -43,15 +43,14 @@ intenzivněji využívají těla. U těl je prováděna pitva a jednotlivé tk
 se zpracovávají a analyzují, některé vzorky se posílají i na další
 odborná pracoviště:
 
-* pitva: určení příčiny smrti, makroskopická kontrola orgánů, biometrie,
-  kondice (ALKA Wildlife, o.p.s.)
+* pitva: určení příčiny smrti, makroskopická kontrola orgánů, biometrie, kondice (ALKA Wildlife, o.p.s.)
 * rozbor žaludku (ALKA Wildlife, o.p.s.)
 * reprodukce (ALKA Wildlife, o.p.s.)
-* určení věku: kondice a velikost těla, lebeční švy, přírůstkové linie
-  zubů (ALKA Wildlife, o.p.s.)
+* určení věku: kondice a velikost těla, lebeční švy, přírůstkové linie zubů (ALKA Wildlife, o.p.s.)
 * paraziti (ALKA Wildlife, o.p.s.)
-* DNA (genetická databanka AV ČR)
-* anorganické látky (Universita Pardubice)
+* DNA (genetická databanka UBO AV ČR)
+* anorganické látky v tkáních (Fakulta chemicko-technologická Univerzity Pardubice)
+* organické znečištění - PHAS (Ústav pro životní prostředí Přírodovědecké fakulty Univerzity Karlovy)
 * identifikace rizikových míst na silnicích (ALKA Wildlife, o.p.s.)
 
 Kosterní materiál je ukládán ve sbírce Muzea Ústí nad Labem.
