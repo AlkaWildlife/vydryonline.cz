@@ -19,7 +19,7 @@ AOPK ČR a ALKA Wildlife, Praha, aktualizované vydání. (česky; pdf;
 Hlaváč V., Poledník L., Poledníková K., Šíma J., Větrovcová J. (2011):
 Metodika AOPK ČR. AOPK ČR, Praha. (česky; pdf; 8 MB)
 
-[Protokol_uhynule_vydry.pdf](/media/Protokol_uhynule_vydry.pdf)\
+[Protokol_uhynule_vydry.pdf](/media/Protokol_uhynule_vydry_v2.pdf)\
 Protokol ke sběru uhynulé vydry říční (pdf; 200 kB)
 
 [Vydra a EIA](/media/iucnosg_doporuceni_vydra.pdf)\
