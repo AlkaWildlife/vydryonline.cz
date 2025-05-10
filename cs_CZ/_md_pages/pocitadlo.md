@@ -1,6 +1,6 @@
 ---
 title: Počítadlo
-published: true
+published: false
 permalink: /vydra/vydry-a-silnice/pocitadlo
 image: /media/P5224060_610.JPG
 listed: true
