@@ -50,7 +50,7 @@ odborná pracoviště:
 * paraziti (ALKA Wildlife, o.p.s.)
 * DNA (genetická databanka UBO AV ČR)
 * anorganické látky v tkáních (Fakulta chemicko-technologická Univerzity Pardubice)
-* organické znečištění - PHAS (Ústav pro životní prostředí Přírodovědecké fakulty Univerzity Karlovy)
+* organické znečištění - PFAS (Ústav pro životní prostředí Přírodovědecké fakulty Univerzity Karlovy)
 * identifikace rizikových míst na silnicích (ALKA Wildlife, o.p.s.)
 
 Kosterní materiál je ukládán ve sbírce Muzea Ústí nad Labem.
