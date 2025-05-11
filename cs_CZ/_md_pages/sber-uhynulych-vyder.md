@@ -38,9 +38,7 @@ dopravy.
 
 # _K čemu slouží?_
 
-Postupně se sběr daří lépe a lépe organizovat a také se
-intenzivněji využívají těla. U těl je prováděna pitva a jednotlivé tkáně
-se zpracovávají a analyzují, některé vzorky se posílají i na další
+ U těl je prováděna pitva a jednotlivé tkáně se zpracovávají a analyzují, některé vzorky se posílají i na další
 odborná pracoviště:
 
 * pitva: určení příčiny smrti, makroskopická kontrola orgánů, biometrie, kondice (ALKA Wildlife, o.p.s.)
@@ -54,6 +52,12 @@ odborná pracoviště:
 * identifikace rizikových míst na silnicích (ALKA Wildlife, o.p.s.)
 
 Kosterní materiál je ukládán ve sbírce Muzea Ústí nad Labem.
+
+# Co dělat při nálezu uhynulé vydry?
+
+Uhynulé vydry říční z celého území České republiky jsou sbírány na základě hlášení veřejnosti. 
+
+[Postup při nálezu uhynulé vydry](/vydra/vydry-a-silnice/vyzva)
 
 # _Co se již zjistilo?_
 
