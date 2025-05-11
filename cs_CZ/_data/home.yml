@@ -5,9 +5,9 @@ news:
   all: Všechny zprávy
   following: Další zprávy
 links:
-  - image: /media/banner_online_small.jpg
-    title: Online poradna
-    url: /user-answers
+  - image: /media/banery_sber_02.jpg
+    title: Uhynulé vydry
+    url: /vydra/vydry-a-silnice/sber-uhynulych-vyder
   - image: /media/banner_skody_3_small.jpg
     title: Vydry a škody
     url: /vydra/vydra-a-skody
