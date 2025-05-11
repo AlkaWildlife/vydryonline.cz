@@ -39,6 +39,10 @@ V případě, že si přejete ponechat například kůži pro výukové účely
 
 Z různých částí uhynulých jedinců je možné zjistit řadu údajů, proto jsou pro nás cenná nejen celá zvířata, ale i zbytky v jakémkoliv stádiu – rozjeté „fleky“ na silnici, zbytky po preparaci či pitvě.
 
-_**Jménem vyder a řešitelů projektu mnohokrát děkujeme.**_
+## [K čemu nám jsou kadávery vyder?](/vydra/vydry-a-silnice/sber-uhynulych-vyder)
+
+
+
+**_Jménem vyder a řešitelů projektu mnohokrát děkujeme._**
 
 [Protokol_uhynule_vydry.pdf](/media/Protokol_uhynule_vydry_v2.pdf)
