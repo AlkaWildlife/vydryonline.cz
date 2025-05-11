@@ -57,7 +57,7 @@ Kosterní materiál je ukládán ve sbírce Muzea Ústí nad Labem.
 
 Uhynulé vydry říční z celého území České republiky jsou sbírány na základě hlášení veřejnosti. 
 
-[Postup při nálezu uhynulé vydry](/vydra/vydry-a-silnice/vyzva)
+## [Postup při nálezu uhynulé vydry](/vydra/vydry-a-silnice/vyzva)
 
 # _Co se již zjistilo?_
 
