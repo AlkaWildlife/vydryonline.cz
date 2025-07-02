@@ -2,10 +2,15 @@
 title: Odborné publikace
 published: true
 permalink: /ke-stazeni/odborne-clanky
+description: >-
+  Publikace výzkumného týmu ALKA Wildlife (která provozuje tyto webové stránky)
+  týkající se vydry říční 
 listed: true
 position: 3
 layout: two_columns_page
 ---
+Publikace výzkumného týmu ALKA Wildlife (která provozuje tyto webové stránky) týkající se vydry říční:
+
 [Opatření k zajištění prostupnosti komunikací pro vydry a další drobné savce.](https://www.alkawildlife.eu/media/SPPK-E-02-003-standard_vydra_komunikace_2023.pdf)
 Poledníková K., Poledník L., Strnad M. (2023): Metodika AOPK (Standard péče o přírodu a krajinu, řada E) (česky)
 
@@ -65,8 +70,14 @@ Poledník L., Poledníková K., Beran V. (2015): Bulletin Vydra16: 62-74. (česk
 [Otters causing conflicts. The Fish Farming case of the Czech Republic](/media/RAP_139211_1_En_5_Chapter_OnlinePDF.pdf)\
 Poledníková K.., Kranz A., Poledník L., Myšiak J. (2013) V: R. A. Klenke et al. (eds.), Human-Wildlife Conflicts in Europe Environmental Science and Engineering, Springer-Verlag Berlin Heidelberg. (anglicky)
 
+[Vydra říční na Dačicku](https://www.alkawildlife.eu/media/Da%C4%8Dicko_11_polednikova_vydra.pdf) 
+Poledníková K., Poledník L., Kranz A., Beran V., Čamlík G. (2013): Dačický vlastivědný sborník VII. (česky)
+
 [Land use drivers of species re-expansion: inffering colonisation dynamics in European otters](/media/Marcelli_et_al_inferring_colonization_dinamycs_otters_Czechia.pdf)\
 Marcelli M., Poledník L., Poledníková K., Fusillo R. (2012): Diversity and Distributions 18: 1001-1012. (anglicky)
+
+Intentional poisoning of piscivorous species and other wildlife with carbofuran in the Czech Republic
+Poledník L., Poledníková K., Větrovcová J., Hlaváč V. (2012) In Carbofuran and Wildlife Poisoning. Global Perspectives and Forensic Approaches.
 
 [Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2011](https://www.vydryonline.cz/media/Polednik_etal_22_28.pdf) 
 Poledník L., Poledníková K., Beran V., Čamlík G., Zápotočný Š., Kranz A. (2012): Bulletin VYDRA 15: 22-28. (česky)
@@ -76,6 +87,9 @@ Poledník L., Poledníková K., Hlaváč V.(2012): Bulletin VYDRA 15: 29-38 (če
 
 [Causes of deaths of _Lutra lutra_ in the Czech Republic (Carnivora: Mustelidae)](/media/Lynx_2011_145-157_Poledn_k.pdf)\
 Poledník L., Poledníková K., Větrovcová J., Hlaváč V., Beran V. (2011): Lynx, n.s. 42: 145–157 (anglicky)
+
+[Vydra říční na Bruntálsku](https://www.alkawildlife.eu/media/Beran_etal_vydra_ricni_Bruntalsko.pdf)
+Beran V., Poledník L., Poledníková K. (2011) Sborník bruntálského muzea (česky)
 
 [Carbofuran – A new and effective method of illegal killing of otters (Lutra lutra) in the Czech ](/media/Polednikova_et_al_2010.pdf)\
 Poledníková K., Větrovcová J., Poledník L. a Hlaváč V. (2010): IUCN OSG Bulletin 27 (3) 137–146. (anglicky;)
