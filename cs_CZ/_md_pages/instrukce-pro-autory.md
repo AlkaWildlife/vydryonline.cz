@@ -2,7 +2,7 @@
 title: Instrukce pro autory
 published: true
 permalink: /ke-stazeni/bulletin-vydra/instrukce-pro-autory
-description: 'Instrukce pro autory příspěvků, v současnosti přijímáme příspěvky do čísla 18'
+description: 'Instrukce pro autory příspěvků, v současnosti přijímáme příspěvky do čísla 20'
 listed: true
 position: 6
 layout: single_column_page
