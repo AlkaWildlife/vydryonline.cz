@@ -1,7 +1,7 @@
 ---
 title: MGS measures for otter
 published: true
-permalink: /MGS
+permalink: /projects/MGS
 image: /media/Projektove_foto_610.jpg
 listed: true
 position: 3
