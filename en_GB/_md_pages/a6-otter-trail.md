@@ -1,9 +1,9 @@
 ---
 title: A6 Otter Trail
-permalink: "/project/a6-otter-trail"
-image: "/media/IMG_7202.JPG"
-long_title: A6 Otter trail
 published: true
+permalink: /projects/MGS/a6-otter-trail
+image: /media/IMG_7202.JPG
+long_title: A6 Otter trail
 listed: true
 position: 6
 layout: two_columns_page
