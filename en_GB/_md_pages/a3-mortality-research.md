@@ -1,9 +1,9 @@
 ---
 title: A3 Mortality research
-permalink: "/project/a3-mortality-research"
-image: "/media/pitva_01.JPG"
-long_title: A3 Otter mortality research
 published: true
+permalink: /projects/MGS/a3-mortality-research
+image: /media/pitva_01.JPG
+long_title: A3 Otter mortality research
 listed: true
 position: 3
 layout: two_columns_page
