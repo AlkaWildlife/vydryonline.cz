@@ -31,7 +31,12 @@ mission:
 gallery:
   title: Photogallery
 appeal:
-  body: '# Projects'
+  body: >-
+    # Projects
+
+
+    More than 20 years of research and protection of Eurasian otter in the Czech
+    Republic
 other:
   body: >-
     <iframe width="274" height="175"
