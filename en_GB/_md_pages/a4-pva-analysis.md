@@ -1,8 +1,8 @@
 ---
 title: A4 PVA analysis
-permalink: "/project/a4-pva-analysis"
-long_title: A4 Population viability analysis
 published: true
+permalink: /projects/MGS/a4-pva-analysis
+long_title: A4 Population viability analysis
 listed: true
 position: 4
 layout: two_columns_page
