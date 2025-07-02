@@ -10,12 +10,25 @@ layout: two_columns_page
 Poledníková K., Poledník L., Strnad M. (2023): Metodika AOPK (Standard péče o přírodu a krajinu, řada E) (česky)
 
 [Složení potravy vydry říční v různém prostředí v oblasti Krušných hor a podkrušnohoří (česky)](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_diet_60_76.pdf)
-[Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen Gewasserhabitaten im Bereich des Erzgebirges und des Erzgebirgsvorlandes (Deutche).](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Nahrung.pdf)
+[Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen Gewasserhabitaten im Bereich des Erzgebirges und des Erzgebirgsvorlandes (Deutsch).](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Nahrung.pdf)
 Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š (2021): Bulletin Vydra 19 
 
-[Výskyt vydry říční ve východní části Krušných hor a jejich podhůří v České republice a Sasku v letech 2019-2020.](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_occurence_7_25.pdf)
-[Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen Republik 2019-2020](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Vorkommen.pdf)
+[Výskyt vydry říční ve východní části Krušných hor a jejich podhůří v České republice a Sasku v letech 2019-2020.](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_occurence_7_25.pdf) (česky)
+[Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen Republik 2019-2020](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Vorkommen.pdf) (Deutsch)
 Poledník L., Kunzelmann B., Beran V., Zápotočný Š., Poledníková K. (2021): Bulletin Vydra19.
+
+[Potravní nabídka pro vydru říční v oblasti Krušných hor a Podkrušnohoří](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_prey_36_59.pdf) (česky)
+[Das Nahrungsdargebot fur den Fischotter im Ergebirge und im Erzgebirgsvorland](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Nahrungsdargebot.pdf) (Deutsch)
+Poledník L., Poledníková K., Mateos-González F., Stolzenburg U., Zápotočný Š. (2021) Bulletin Vydra19000.
+
+[Genetická struktura populace vydry říční v Krušných horách](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Cocchiararo_etal_26_35.pdf) (česky)
+[Genetische struktur der Fischotterpopulation im Erzgebirge](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Genetische.pdf) (Deutsch)
+Cocchiararo B., Poledník L., Kunzelmann B., Beran V., Nowak C. (2021) Bulletin Vydra19.
+
+
+
+[Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2021](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_25_35.pdf)
+Poledník L., Beran V., Zápotočný Š., Poledníková K. (2021): Bulletin VYDRA 18: 25-35. (česky)
 
 [Zimní sčítání vydry říční na Dačicku a v Orlických horách v roce 2021 ](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_49_55.pdf)
 Poledník L., Poledníková K., Pavel V., Beran V. (2021): Bulletin VYDRA 18: 49-55. (česky)
