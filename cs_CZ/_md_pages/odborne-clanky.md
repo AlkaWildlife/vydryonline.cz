@@ -9,9 +9,16 @@ layout: two_columns_page
 [Opatření k zajištění prostupnosti komunikací pro vydry a další drobné savce.](https://www.alkawildlife.eu/media/SPPK-E-02-003-standard_vydra_komunikace_2023.pdf)
 Poledníková K., Poledník L., Strnad M. (2023): Metodika AOPK (Standard péče o přírodu a krajinu, řada E) (česky)
 
-[Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen Gewasserhabitaten im Bereich des Erzgebirges und des Erzgebirgsvorlandes (Deutche).](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Nahrung.pdf)
 [Složení potravy vydry říční v různém prostředí v oblasti Krušných hor a podkrušnohoří (česky)](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_diet_60_76.pdf)
-Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š (2021): Bulletin Vydra 19: 60–77 
+[Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen Gewasserhabitaten im Bereich des Erzgebirges und des Erzgebirgsvorlandes (Deutche).](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Nahrung.pdf)
+Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š (2021): Bulletin Vydra 19 
+
+[Výskyt vydry říční ve východní části Krušných hor a jejich podhůří v České republice a Sasku v letech 2019-2020.](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_occurence_7_25.pdf)
+[Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen Republik 2019-2020](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Vorkommen.pdf)
+Poledník L., Kunzelmann B., Beran V., Zápotočný Š., Poledníková K. (2021): Bulletin Vydra19.
+
+[Zimní sčítání vydry říční na Dačicku a v Orlických horách v roce 2021 ](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_49_55.pdf)
+Poledník L., Poledníková K., Pavel V., Beran V. (2021): Bulletin VYDRA 18: 49-55. (česky)
 
 [Vydra a doprava – problém, který je možné řešit.](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)\
 Poledník L. a Poledníková K. (2017): Fórum ochrany přírody 1/2017: str. 5. (česky)
