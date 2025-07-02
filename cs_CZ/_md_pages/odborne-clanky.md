@@ -19,19 +19,32 @@ Poledník L., Kunzelmann B., Beran V., Zápotočný Š., Poledníková K. (2021)
 
 [Potravní nabídka pro vydru říční v oblasti Krušných hor a Podkrušnohoří](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_prey_36_59.pdf) (česky)
 [Das Nahrungsdargebot fur den Fischotter im Ergebirge und im Erzgebirgsvorland](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Nahrungsdargebot.pdf) (Deutsch)
-Poledník L., Poledníková K., Mateos-González F., Stolzenburg U., Zápotočný Š. (2021) Bulletin Vydra19000.
+Poledník L., Poledníková K., Mateos-González F., Stolzenburg U., Zápotočný Š. (2021) Bulletin Vydra19.
 
 [Genetická struktura populace vydry říční v Krušných horách](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Cocchiararo_etal_26_35.pdf) (česky)
 [Genetische struktur der Fischotterpopulation im Erzgebirge](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Genetische.pdf) (Deutsch)
 Cocchiararo B., Poledník L., Kunzelmann B., Beran V., Nowak C. (2021) Bulletin Vydra19.
-
-
 
 [Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2021](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_25_35.pdf)
 Poledník L., Beran V., Zápotočný Š., Poledníková K. (2021): Bulletin VYDRA 18: 25-35. (česky)
 
 [Zimní sčítání vydry říční na Dačicku a v Orlických horách v roce 2021 ](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_49_55.pdf)
 Poledník L., Poledníková K., Pavel V., Beran V. (2021): Bulletin VYDRA 18: 49-55. (česky)
+
+[Dřevěné vydří lávky - jejich výhody a omezení, zkušenosti s jejich instalací a provozem](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednikova_etal_36_48.pdf)
+Poledníková K., Zápotočný Š., Beran V., Poledník L. (2021): Bulletin VYDRA 18: 36-48. (česky)
+
+[Recolonization of the Austrian Alps by otters: conflicts and management](https://www.alkawildlife.eu/media/Kranz_Polednik_2020_otters_Alps.pdf)
+Kranz A., Poledník L. (2020): Journal of Mountain Ecology 13: 31-40. (česky)
+
+[Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech 2013-2017](https://www.alkawildlife.eu/media/Polednik_etal_14_25.pdf)
+Poledník L., Poledníková K., Větrovcová J., Beran V., Pavel V. (2018) Bulletin Vydra 17: 14-25. (česky)
+
+[Statistika nelegálního zabíjení vydry říční v České republice](https://www.alkawildlife.eu/media/Polednikova_etal_58_66.pdf)
+Poledníková K., Poledník L., Beran V., Hlaváč V., Kranz A. (2018) Bulletin Vydra 17: 58-66. (česky)
+
+[Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2016](https://www.alkawildlife.eu/media/Polednik_etal_4_13.pdf)
+Poledník L., Poledníková K., Beran V., Čamlík G., Praus L., Mateos-Gonzalez F. (2018) Bulletin Vydra 17: 4-13. 
 
 [Vydra a doprava – problém, který je možné řešit.](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)\
 Poledník L. a Poledníková K. (2017): Fórum ochrany přírody 1/2017: str. 5. (česky)
