@@ -1,8 +1,8 @@
 ---
-title: Project
-permalink: "/project"
-image: "/media/Projektove_foto_610.jpg"
+title: MGS measures for otter
 published: true
+permalink: /MGS
+image: /media/Projektove_foto_610.jpg
 listed: true
 position: 3
 layout: single_column_page
