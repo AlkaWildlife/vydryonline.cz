@@ -1,9 +1,9 @@
 ---
 title: A2 Otter abundance
-permalink: "/project/a2-otter-abundance"
-image: "/media/IMG_0393_600.JPG"
-long_title: A2 Estimation of otter abundance
 published: true
+permalink: /projects/MGS/a2-otter-abundance
+image: /media/IMG_0393_600.JPG
+long_title: A2 Estimation of otter abundance
 listed: true
 position: 2
 layout: two_columns_page
