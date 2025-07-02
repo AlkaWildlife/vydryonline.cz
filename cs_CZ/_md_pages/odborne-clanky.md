@@ -6,6 +6,13 @@ listed: true
 position: 3
 layout: two_columns_page
 ---
+[Opatření k zajištění prostupnosti komunikací pro vydry a další drobné savce.](https://www.alkawildlife.eu/media/SPPK-E-02-003-standard_vydra_komunikace_2023.pdf)
+Poledníková K., Poledník L., Strnad M. (2023): Metodika AOPK (Standard péče o přírodu a krajinu, řada E) (česky)
+
+[Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen Gewasserhabitaten im Bereich des Erzgebirges und des Erzgebirgsvorlandes (Deutche).](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Nahrung.pdf)
+[Složení potravy vydry říční v různém prostředí v oblasti Krušných hor a podkrušnohoří (česky)](https://www.alkawildlife.eu/media/bulletin_VYDRA_19_Polednik_etal_diet_60_76.pdf)
+Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š (2021): Bulletin Vydra 19: 60–77 
+
 [Vydra a doprava – problém, který je možné řešit.](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)\
 Poledník L. a Poledníková K. (2017): Fórum ochrany přírody 1/2017: str. 5. (česky)
 
@@ -42,7 +49,5 @@ Poledník L., Poledníková K., Kranz A. a Toman A. (2007): Lynx (Praha) n.s. 3
 
 [The impact of methods of fishery management on the diet of otters (_Lutra lutra_)](/media/Polednik_Foliazoo_p1769.pdf)\
 Poledník L., Mitrenga R., Poledníková K., Lojkásek B. (2004): Folia zoologica 53 (1): 27–36. (anglicky)
-
-
 
 #
