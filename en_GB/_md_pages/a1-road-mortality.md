@@ -1,9 +1,9 @@
 ---
 title: A1 Road mortality
-permalink: "/project/a1-road-mortality"
-image: "/media/072_610.JPG"
-long_title: A1 Road mortality mitigation
 published: true
+permalink: /projects/MGS/a1-road-mortality
+image: /media/072_610.JPG
+long_title: A1 Road mortality mitigation
 listed: true
 position: 1
 layout: two_columns_page
