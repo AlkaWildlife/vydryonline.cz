@@ -1,27 +1,23 @@
 showcases:
   time: 12000
   trans_period: 800
-
-news:
-  title: Latest news
-
+news: {}
 links:
-  - title: Photogallery
+  - image: /media/obrazek_3a_156.jpg
+    title: Photogallery
     url: /gallery
-    image: /media/obrazek_3a_156.jpg
-  - title: Bulletin Vydra
+  - image: /media/banner_bulletin_small.jpg
+    title: Bulletin Vydra
     url: /library/bulletin-vydra
-    image: /media/banner_bulletin_small.jpg
-  - title: Otters on roads
+  - image: /media/banner_silnice_small.jpg
+    title: Otters on roads
     url: /otters-on-roads
-    image: /media/banner_silnice_small.jpg
-  - title: Otter trail
-    url: https://www.vydristezky.cz
-    image: /media/banner_stezka_small.jpg
-  - title: Online help
-    url: http://www.vydryonline.cz/user-answers
-    image: /media/banner_online_small.jpg
-
+  - image: /media/banner_stezka_small.jpg
+    title: Otter trail
+    url: 'https://www.vydristezky.cz'
+  - image: /media/banner_online_small.jpg
+    title: Online help
+    url: 'http://www.vydryonline.cz/user-answers'
 mission:
   body: |+
     # Mission
@@ -32,6 +28,8 @@ mission:
     about activities realized in protection and reasearch on otters in
     the Czech Republic.
 
+gallery:
+  title: Photogallery
 appeal:
   body: |+
     # Project
@@ -44,12 +42,7 @@ appeal:
     Duration: 2015–2016
 
 other:
-  body: |+
-    # Counter
-
-    Number of dead otter records in the Czech Republic in 2017:
-
-    [On roads: 10](/project/a3-mortality-research
-    "mortality research")
-
-    [Total: 24](/project/a3-mortality-research "mortality research")
+  body: >-
+    <iframe width="274" height="175"
+    src="https://www.youtube.com/embed/RmYNtv0khV5y8nwB" frameborder="0"
+    allowfullscreen=""></iframe>
