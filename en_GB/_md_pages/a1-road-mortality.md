@@ -8,7 +8,7 @@ listed: true
 position: 1
 layout: two_columns_page
 ---
-The monitoring of otter road casualties is organised in order to
+The monitoring of otter road casualties have been organised in order to
 identify priorities for implementation of mitigation measures. Based on
 the results of this monitoring, an online map presenting otter road
 mortality records and critical places for otters on roads has been
@@ -19,11 +19,9 @@ for each critical place.
 
 # ![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left} Online map application
 
-[www.vydrynasilnici.cz][1]
+[www.vydrynasilnici.cz](http://www.vydrynasilnici.cz)
 
 <div class="clearfix"></div>
-
- 
 
 # ![](/media/vydra_a_doprava_-_ob_lka_300.jpg){: .wysiwyg-float-left} New updated version of brochure
 
@@ -32,8 +30,6 @@ for each critical place.
 (pdf; 13 MB; in the Czech language)
 
 <div class="clearfix"></div>
-
- 
 
 # Publications
 
@@ -44,6 +40,3 @@ je možné řešit. Fórum ochrany přírody 1/2017: page
 [Poledník L., Poledníková K., Beran V. a Mináriková T. (2017):
 Průchodnost silnic z pohledu vydry říční. Fórum ochrany přírody 2/2017:
 37–42.](/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)
-
-
-[1]: http://www.vydrynasilnici.cz
