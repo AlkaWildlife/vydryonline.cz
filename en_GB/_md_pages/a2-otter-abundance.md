@@ -13,7 +13,7 @@ Plan is population surveillance and mapping. Estimates of otter numbers
 in selected core areas are utilised to obtaining various additional
 information. These include otter population density, abundance,
 structure and development of the population trend in these areas.
-Information about otter population density will also be used for
+Information about otter population density is used for
 calculating the of amount of otter-caused damages for which Czech state
 pays compensation.
 
