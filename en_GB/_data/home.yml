@@ -31,16 +31,7 @@ mission:
 gallery:
   title: Photogallery
 appeal:
-  body: |+
-    # Project
-
-    [Implementation of selected conservation measures for the Eurasian
-    otter (Lutra lutra) in the Czech Republic](/project)
-
-    Supported by EEA Grants
-
-    Duration: 2015–2016
-
+  body: '# Projects'
 other:
   body: >-
     <iframe width="274" height="175"
