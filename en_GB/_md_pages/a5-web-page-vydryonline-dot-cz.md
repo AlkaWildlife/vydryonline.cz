@@ -1,8 +1,8 @@
 ---
 title: A5 Web page vydryonline.cz
-permalink: "/project/a5-web-page-vydryonline-dot-cz"
-image: "/media/vydryonline_300.jpg"
 published: true
+permalink: /projects/MGS/a5-web-page-vydryonline-dot-cz
+image: /media/vydryonline_300.jpg
 listed: true
 position: 5
 layout: two_columns_page
