@@ -45,16 +45,16 @@ Kranz A., Poledník L. (2020): Journal of Mountain Ecology 13: 31-40. (English)
 [Winter census of Eurasian otter in selected areas of the Czech Republic in the years 2013-2017](https://www.alkawildlife.eu/media/Polednik_etal_14_25.pdf)
 Poledník L., Poledníková K., Větrovcová J., Beran V., Pavel V. (2018) Bulletin Vydra 17: 14-25. (in Czech with English subtitles)
 
-[Statistika nelegálního zabíjení vydry říční v České republice](https://www.alkawildlife.eu/media/Polednikova_etal_58_66.pdf)
+[Statistic of illegal killing of Eurasian otter in the Czech Republic ](https://www.alkawildlife.eu/media/Polednikova_etal_58_66.pdf)
 Poledníková K., Poledník L., Beran V., Hlaváč V., Kranz A. (2018) Bulletin Vydra 17: 58-66. (in Czech with English subtitles)
 
-[Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2016](https://www.alkawildlife.eu/media/Polednik_etal_4_13.pdf)
+[Distribution of Eurasian otter population in the Czech Republic in 2016](https://www.alkawildlife.eu/media/Polednik_etal_4_13.pdf)
 Poledník L., Poledníková K., Beran V., Čamlík G., Praus L., Mateos-Gonzalez F. (2018) Bulletin Vydra 17: 4-13. (in Czech with English subtitles) 
 
-[Vydra a doprava – problém, který je možné řešit.](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)\
+[Eurasian otter and transport - a problem which can be solved.](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)\
 Poledník L. a Poledníková K. (2017): Fórum ochrany přírody 1/2017: str. 5. (in Czech)
 
-[Průchodnost silnic z pohledu vydry říční.](/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)\
+[Road permeability from otter point of view.](/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)\
 Poledník L., Poledníková K., Beran V. a Mináriková T. (2017): Fórum ochrany přírody 2/2017: 37–42 (in Czech)
 
 [Vydry na silnici – problém, který můžeme řešit.](/media/OP_03_2017_vydry.pdf)\
