@@ -59,11 +59,20 @@ Poledník L., Poledníková K., Beran V. a Mináriková T. (2017): Ochrana př�
 E. Sherrard-Smith, D.W.G. Stanton, J. Cable, P. Orozco-terWengel, V.R. Simpson, M. Elmeros, J. van Dijk, F. Simonnet, A. Roos, Ch. Lemarchand, L. Poledník, P. Heneberg, E.A. Chadwick (2016): Parasitology
 International 65 (2016) 163–170. (anglicky)
 
+[Vydra říční na toku Bílina](https://www.vydryonline.cz/media/7_Polednik_etal_62_74.pdf)
+Poledník L., Poledníková K., Beran V. (2015): Bulletin Vydra16: 62-74. (česky)
+
 [Otters causing conflicts. The Fish Farming case of the Czech Republic](/media/RAP_139211_1_En_5_Chapter_OnlinePDF.pdf)\
 Poledníková K.., Kranz A., Poledník L., Myšiak J. (2013) V: R. A. Klenke et al. (eds.), Human-Wildlife Conflicts in Europe Environmental Science and Engineering, Springer-Verlag Berlin Heidelberg. (anglicky)
 
 [Land use drivers of species re-expansion: inffering colonisation dynamics in European otters](/media/Marcelli_et_al_inferring_colonization_dinamycs_otters_Czechia.pdf)\
 Marcelli M., Poledník L., Poledníková K., Fusillo R. (2012): Diversity and Distributions 18: 1001-1012. (anglicky)
+
+[Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2011](https://www.vydryonline.cz/media/Polednik_etal_22_28.pdf) 
+Poledník L., Poledníková K., Beran V., Čamlík G., Zápotočný Š., Kranz A. (2012): Bulletin VYDRA 15: 22-28. (česky)
+
+[Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech 2008–2012](https://www.vydryonline.cz/media/Polednik_etal_29_38.pdf)
+Poledník L., Poledníková K., Hlaváč V.(2012): Bulletin VYDRA 15: 29-38 (česky)
 
 [Causes of deaths of _Lutra lutra_ in the Czech Republic (Carnivora: Mustelidae)](/media/Lynx_2011_145-157_Poledn_k.pdf)\
 Poledník L., Poledníková K., Větrovcová J., Hlaváč V., Beran V. (2011): Lynx, n.s. 42: 145–157 (anglicky)
@@ -82,5 +91,3 @@ Poledník L., Poledníková K., Kranz A. a Toman A. (2007): Lynx (Praha) n.s. 3
 
 [The impact of methods of fishery management on the diet of otters (_Lutra lutra_)](/media/Polednik_Foliazoo_p1769.pdf)\
 Poledník L., Mitrenga R., Poledníková K., Lojkásek B. (2004): Folia zoologica 53 (1): 27–36. (anglicky)
-
-#
