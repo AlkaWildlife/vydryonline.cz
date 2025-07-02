@@ -9,11 +9,9 @@ position: 6
 layout: two_columns_page
 ---
 Otter nature trail for general public was created along River Dyje
-between town Dacice and Stare Hobzi. A website about the trail will be
-launched as part of the project. Field trips and lectures about otters
-in the town of Dačice and its surroundings will be organised.
+between town Dacice and Stare Hobzi. Field trips and lectures about otters
+in the town of Dačice and along the river have been organised.
 
-[**www.vydristezky.cz**][1]
+Special web page about the otter trail: 
 
-
-[1]: https://www.vydristezky.cz
+[**www.vydristezky.cz**](https://www.vydristezky.cz)
