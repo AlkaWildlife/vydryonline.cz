@@ -30,19 +30,19 @@ Poledník L., Poledníková K., Mateos-González F., Stolzenburg U., Zápotočn�
 [Genetische struktur der Fischotterpopulation im Erzgebirge](https://www.alkawildlife.eu/media/bulletin_VYDRA_Deutsche_Genetische.pdf) (Deutsch)
 Cocchiararo B., Poledník L., Kunzelmann B., Beran V., Nowak C. (2021) Bulletin Vydra19.
 
-[Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2021](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_25_35.pdf)
+[Distribution of the Eurasian otter population in the Czech Republic in 2021](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_25_35.pdf)
 Poledník L., Beran V., Zápotočný Š., Poledníková K. (2021): Bulletin VYDRA 18: 25-35. (in Czech with English subtitles)
 
-[Zimní sčítání vydry říční na Dačicku a v Orlických horách v roce 2021](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_49_55.pdf)
+[Winter census of Eurasian otter in Dačice area and PLA Orlické hory in the year 2021](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednik_etal_49_55.pdf)
 Poledník L., Poledníková K., Pavel V., Beran V. (2021): Bulletin VYDRA 18: 49-55. (in Czech with English subtitles)
 
-[Dřevěné vydří lávky - jejich výhody a omezení, zkušenosti s jejich instalací a provozem](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednikova_etal_36_48.pdf)
+[Wooden boards for otters - their benefits, requirements and our experience with their instalation and operation](https://www.alkawildlife.eu/media/Bulletin_Vydra_18_Polednikova_etal_36_48.pdf)
 Poledníková K., Zápotočný Š., Beran V., Poledník L. (2021): Bulletin VYDRA 18: 36-48. (in Czech with English subtitles)
 
 [Recolonization of the Austrian Alps by otters: conflicts and management](https://www.alkawildlife.eu/media/Kranz_Polednik_2020_otters_Alps.pdf)
 Kranz A., Poledník L. (2020): Journal of Mountain Ecology 13: 31-40. (English)
 
-[Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech 2013-2017](https://www.alkawildlife.eu/media/Polednik_etal_14_25.pdf)
+[Winter census of Eurasian otter in selected areas of the Czech Republic in the years 2013-2017](https://www.alkawildlife.eu/media/Polednik_etal_14_25.pdf)
 Poledník L., Poledníková K., Větrovcová J., Beran V., Pavel V. (2018) Bulletin Vydra 17: 14-25. (in Czech with English subtitles)
 
 [Statistika nelegálního zabíjení vydry říční v České republice](https://www.alkawildlife.eu/media/Polednikova_etal_58_66.pdf)
