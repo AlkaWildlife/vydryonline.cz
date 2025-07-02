@@ -57,7 +57,7 @@ Poledník L. a Poledníková K. (2017): Fórum ochrany přírody 1/2017: str. 
 [Road permeability from otter point of view.](/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)\
 Poledník L., Poledníková K., Beran V. a Mináriková T. (2017): Fórum ochrany přírody 2/2017: 37–42 (in Czech)
 
-[Vydry na silnici – problém, který můžeme řešit.](/media/OP_03_2017_vydry.pdf)\
+[Otters on roads - problem, which can be solved.](/media/OP_03_2017_vydry.pdf)\
 Poledník L., Poledníková K., Beran V. a Mináriková T. (2017): Ochrana přírody 3: 25–28 (in Czech)
 
 [Distribution and molecular phylogeny of biliary trematodes (_Opistrorchiidae_) infecting native _Lutra lutra_ and alien _Neovison vison_ across Europe](/media/parasitology_2016_1-s2.0-S1383576915001919-main.pdf)\
