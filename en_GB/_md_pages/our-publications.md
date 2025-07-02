@@ -64,13 +64,13 @@ Poledník L., Poledníková K., Beran V. a Mináriková T. (2017): Ochrana př�
 E. Sherrard-Smith, D.W.G. Stanton, J. Cable, P. Orozco-terWengel, V.R. Simpson, M. Elmeros, J. van Dijk, F. Simonnet, A. Roos, Ch. Lemarchand, L. Poledník, P. Heneberg, E.A. Chadwick (2016): Parasitology
 International 65 (2016) 163–170. (in English)
 
-[Vydra říční na toku Bílina](https://www.vydryonline.cz/media/7_Polednik_etal_62_74.pdf)
+[Eurasian otter at river Bílina](https://www.vydryonline.cz/media/7_Polednik_etal_62_74.pdf)
 Poledník L., Poledníková K., Beran V. (2015): Bulletin Vydra16: 62-74. (in Czech with English subtitles)
 
 [Otters causing conflicts. The Fish Farming case of the Czech Republic](/media/RAP_139211_1_En_5_Chapter_OnlinePDF.pdf)\
 Poledníková K.., Kranz A., Poledník L., Myšiak J. (2013) V: R. A. Klenke et al. (eds.), Human-Wildlife Conflicts in Europe Environmental Science and Engineering, Springer-Verlag Berlin Heidelberg. (in English)
 
-[Vydra říční na Dačicku](https://www.alkawildlife.eu/media/Da%C4%8Dicko_11_polednikova_vydra.pdf) 
+[Eurasina otter in Dačice area ](https://www.alkawildlife.eu/media/Da%C4%8Dicko_11_polednikova_vydra.pdf)
 Poledníková K., Poledník L., Kranz A., Beran V., Čamlík G. (2013): Dačický vlastivědný sborník VII. (in Czech)
 
 [Land use drivers of species re-expansion: inffering colonisation dynamics in European otters](/media/Marcelli_et_al_inferring_colonization_dinamycs_otters_Czechia.pdf)\
@@ -79,16 +79,16 @@ Marcelli M., Poledník L., Poledníková K., Fusillo R. (2012): Diversity and Di
 Intentional poisoning of piscivorous species and other wildlife with carbofuran in the Czech Republic
 Poledník L., Poledníková K., Větrovcová J., Hlaváč V. (2012) In Carbofuran and Wildlife Poisoning. Global Perspectives and Forensic Approaches.
 
-[Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2011](https://www.vydryonline.cz/media/Polednik_etal_22_28.pdf) 
+[Distribution of Eurasian otter in the Czech Republic in 2011](https://www.vydryonline.cz/media/Polednik_etal_22_28.pdf) 
 Poledník L., Poledníková K., Beran V., Čamlík G., Zápotočný Š., Kranz A. (2012): Bulletin VYDRA 15: 22-28. (in Czech with English subtitles)
 
-[Zimní sčítání vydry říční ve vybraných oblastech České republiky v letech 2008–2012](https://www.vydryonline.cz/media/Polednik_etal_29_38.pdf)
+[Winter census of Eurasian otter in selected areas of the Czech Republic in years 2008–2012](https://www.vydryonline.cz/media/Polednik_etal_29_38.pdf)
 Poledník L., Poledníková K., Hlaváč V.(2012): Bulletin VYDRA 15: 29-38 (in Czech with English subtitles)
 
 [Causes of deaths of _Lutra lutra_ in the Czech Republic (Carnivora: Mustelidae)](/media/Lynx_2011_145-157_Poledn_k.pdf)\
 Poledník L., Poledníková K., Větrovcová J., Hlaváč V., Beran V. (2011): Lynx, n.s. 42: 145–157 (in English)
 
-[Vydra říční na Bruntálsku](https://www.alkawildlife.eu/media/Beran_etal_vydra_ricni_Bruntalsko.pdf)
+[Eurasian otter in Bruntál area](https://www.alkawildlife.eu/media/Beran_etal_vydra_ricni_Bruntalsko.pdf)
 Beran V., Poledník L., Poledníková K. (2011) Sborník bruntálského muzea (in Czech)
 
 [Carbofuran – A new and effective method of illegal killing of otters (Lutra lutra) in the Czech ](/media/Polednikova_et_al_2010.pdf)\
@@ -100,7 +100,7 @@ Poledník L., Řehulka J., Kranz A., Poledníková K., Hlaváč V., Kazihnitkov�
 [Distribution of the Eurasian otter (Lutra lutra) in the Republic of Macedonia in 2007](/media/Polednik_etal__Makedonie_2008.pdf)\
 Poledník, L., Poledníková, K., Beran, V., Thelenová, J., Valášek, M., Prášek, V., Škorpíková, V. and Dostál, M. (2008): (in English)
 
-[Variabilita složení potravy vydry říční (_Lutra lutra_) na rybnících Českomoravské vrchoviny.](/media/Lynx_2007_031-046_Poledn_k.pdf)\
+[Variability in the diet of the Eurasian otter at fishponds in Českomoravská vrchovina (Bohemian-Moravian Highlands, Czech republic).](/media/Lynx_2007_031-046_Poledn_k.pdf)\
 Poledník L., Poledníková K., Kranz A. a Toman A. (2007): Lynx (Praha) n.s. 38: 31–46. (in Czech with English subtitles)
 
 [The impact of methods of fishery management on the diet of otters (_Lutra lutra_)](/media/Polednik_Foliazoo_p1769.pdf)\
