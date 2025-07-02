@@ -1,9 +1,9 @@
 ---
 title: A 10 Media work
-permalink: "/project/a-10-media-work"
-image: "/media/DSC_0734_610.JPG"
-long_title: Media work
 published: true
+permalink: /projects/MGS/a-10-media-work
+image: /media/DSC_0734_610.JPG
+long_title: Media work
 listed: true
 position: 10
 layout: two_columns_page
