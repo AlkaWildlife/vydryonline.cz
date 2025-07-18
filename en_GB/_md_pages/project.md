@@ -3,6 +3,11 @@ title: MGS measures for otter
 published: true
 permalink: /projects/MGS
 image: /media/Projektove_foto_610.jpg
+description: >-
+  The main aim of the project (implemented in 2015 - 2017) was to implement
+  selected conservation measures from the national Management Plan for the
+  Eurasian otter in the Czech Republic. Project focused on road mortality and
+  conflict with fishermen.
 listed: true
 position: 3
 layout: single_column_page
