@@ -5,7 +5,7 @@ permalink: /projects
 description: Implemented projects
 listed: true
 position: 2
-layout: two_columns_page
+layout: single_column_page
 lang_alternatives:
   cs_CZ: {}
 ---
