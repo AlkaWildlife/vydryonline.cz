@@ -3,9 +3,9 @@ title: ApexPol
 published: true
 permalink: /projects/ApexPol
 description: >-
-  The main objective of the project is to develop and test a methodology for
-  assessing the contamination of aquatic ecosystems using tissue analysis of the
-  top piscivorous predator - the Eurasian otter.
+  The main objective of the project (2025-2027) is to develop and test a
+  methodology for assessing the contamination of aquatic ecosystems using tissue
+  analysis of the top piscivorous predator - the Eurasian otter.
 listed: true
 position: 1
 layout: two_columns_page
