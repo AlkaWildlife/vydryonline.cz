@@ -11,6 +11,9 @@ layout: two_columns_page
 ---
 Publikace výzkumného týmu ALKA Wildlife (která provozuje tyto webové stránky) týkající se vydry říční:
 
+[Vývoj populace vydry říční v České republice: celkové shrnutí a detailnější pohled na období 2017–2023](/media/Vydra_fin.pdf)
+Poledník L., Beran V., Poledníková K. (2025): Příroda, Praha 47: 137-152.
+
 [Opatření k zajištění prostupnosti komunikací pro vydry a další drobné savce.](https://www.alkawildlife.eu/media/SPPK-E-02-003-standard_vydra_komunikace_2023.pdf)
 Poledníková K., Poledník L., Strnad M. (2023): Metodika AOPK (Standard péče o přírodu a krajinu, řada E) (česky)
 
