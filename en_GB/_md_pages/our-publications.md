@@ -11,6 +11,11 @@ layout: single_column_page
 ---
 Scientific publications of researchers of ALKA Wildlife (which runs this website) regarding the Eurasian otter:
 
+
+
+[Development of the Eurasian Otter Population in the Czech Republic: an Overall Summary and Detailed Perspective of the 2017–2023 period.](/media/Vydra_fin.pdf)
+Poledník L., Beran V., Poledníková K. (2025): Příroda, Praha 47: 137-152.
+
 [Measures to provide roads with permeability for the Eurasian otter and other small mammals](https://www.alkawildlife.eu/media/SPPK-E-02-003-standard_vydra_komunikace_2023.pdf)
 Poledníková K., Poledník L., Strnad M. (2023): Metodika AOPK (Standard péče o přírodu a krajinu, řada E) (in Czech)
 
