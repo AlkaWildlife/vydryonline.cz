@@ -10,4 +10,4 @@ layout: news
 ---
 The Eurasian otter population in the Czech Republic has undergone dramatic development. Its development has been well documented, especially the return period, when nationwide mapping is carried out regularly at five-year intervals. The results of the individual mappings are now summarized in a new publication, the article was published in the journal Nature, published by the AOPK ČR.
 
-[Poledník L., Beran V. a Poledníková K. (2025): Vývoj populace vydry říční v České republice: celkové shrnutí a detailnější pohled na období 2017–2023. Příroda, Praha 47: 137-152.](/media/Vydra_fin.pdf)
+[Poledník L., Beran V. a Poledníková K. (2025): Development of the Eurasian Otter Population in the Czech Republic: an Overall Summary and Detailed Perspective of the 2017–2023 period.](/media/Vydra_fin.pdf)
