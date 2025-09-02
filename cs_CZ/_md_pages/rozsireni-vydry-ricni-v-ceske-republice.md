@@ -19,23 +19,27 @@ Z jednotlivých map je zřejmé, že vydry se postupně začaly navracet do naš
 
 Výsledek mapování v roce 1992 (Toman 1992)
 
-![Výskyt vydry říční v roce 1992](/media/vydra_1992.jpg)
+![Výskyt vydry říční v roce 1992](/media/vydra_cr_1992_620.jpg)
 
-Výsledek mapování v roce 2001 (Kučerová a spol. 2001)
+Výsledek mapování v roce 2001 (Kučerová a kol. 2001)
 
-![Výskyt vydry říční v roce 2001](/media/vydra_2001.jpg)
+![Výskyt vydry říční v roce 2001](/media/vydra_cr_2001_620.jpg)
 
-Výsledek mapování v roce 2006 (Poledník a spol. 2007)
+Výsledek mapování v roce 2006 (Poledník a kol. 2007)
 
-![Výskyt vydry říční v roce 2006](/media/vydra_2006.jpg)
+![Výskyt vydry říční v roce 2006](/media/vydra_cr_2006_620.jpg)
 
-Výsledek mapování v roce 20011 (Poledník a spol. 2012)
+Výsledek mapování v roce 20011 (Poledník a kol. 2012)
 
-![Výskyt vydry říční v roce 2011](/media/vydra_2011.jpg)
+![Výskyt vydry říční v roce 2011](/media/vydra_cr_2011_620.jpg)
 
-Výsledek mapování v roce 2016 (Poledník a spol. 2018)
+Výsledek mapování v roce 2016 (Poledník a kol. 2018)
 
-![Výskyt vydry říční v roce 2016](/media/vydra_2016.jpg)
+![Výskyt vydry říční v roce 2016](/media/vydra_cr_2016_620.jpg)
+
+Výsledek mapování v roce 2021 (Poledník a kol. 2021)
+
+![](/media/vydra_cr_2021_620.jpg)
 
 - - -
 
@@ -52,3 +56,7 @@ Poledník L., Poledníková K. A Hlaváč V. (**2007**): Rozšíření vydry ř�
 [Poledník L., Poledníková K., Beran V., Čamlík G., Prauz L., Mateos-González F. (**2018**): Rozšíření vydry říční (_Lutra lutra _L.) v České republice v roce 2016. Bulletin Vydra 17: 4 - 13. ](/media/Polednik_etal_4_13.pdf)
 
 [Poledník L., Beran V., Zápotočný Š. a Poledníková K. (2021): Rozšíření vydry říční (Lutra lutra L.) v České republice v roce 2021. Bulletin Vydra 18:25-35.](/media/Polednik_etal_25_35.pdf)
+
+**Publikace shrnující celkový vývoj populace:**
+
+[Poledník L., Beran V. a Poledníková K. (2025): Vývoj populace vydry říční v České republice: celkové shrnutí a detailnější pohled na období 2017–2023. Příroda, Praha 47: 137-152.](/media/Vydra_fin.pdf)
