@@ -3,6 +3,7 @@ description: >-
   Informations about protection and reasearch on otters and about the project
   Implementation of selected conservation measures for the Eurasian otter (Lutra
   lutra) in the Czech Republic.
+baseurl: ""
 url: 'https://en.vydryonline.cz'
 logo: /media/vydry_online_green.png
 lang: en_GB
@@ -23,4 +24,5 @@ social:
   name: 'ALKA Wildlife, o.p.s.'
 webmaster_verifications:
   google: o27dsTgYww0bzXVmTZ_CgadoY8QtzpDMgo-bVSgH3OM
+lang: en_GB  
 google_analytics: UA-57533252-6
