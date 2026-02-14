@@ -18,7 +18,7 @@ _U stopy vydry, stejně jako u ostatních lasicovitých šelem, se otiskuje pět
 
 
 
-_Stopy dospělé vydry mají šířku zhruba 6 cm, délka 5 až 7 cm, přičemž zadní je malinko větší. Drápy má vydra krátké a tupé, otiskují se hned u polštářku. Vydra je těžká (v průměru váží 7 kg), ale její tlapky přizpůsobené vodě jsou poměrně velké, navíc s plovací blánou, a tak se váha na tlapu dobře rozloží a otisk tlapy je tak poměrně lehký a neboří se ostře do hloubky. _
+_Stopy dospělé vydry mají šířku zhruba 6 cm, délka 5 až 7 cm, přičemž zadní je malinko větší. Drápy má vydra krátké a tupé, otiskují se hned u polštářku. Vydra je těžká (v průměru váží 7 kg), ale její tlapky přizpůsobené vodě jsou poměrně velké, navíc s plovací blánou, a tak se váha na tlapu dobře rozloží a otisk tlapy je tak poměrně lehký a neboří se ostře do hloubky._
 
 ![stopa vydry](/media/vydra-stopa_2.jpg "stopa vydry")
 
@@ -66,7 +66,7 @@ _Tady na snímku si rozdaly hypotetický závod kuna a vydra: vlevo je vidět ja
 
 
 
-_Vydří stopa je při základních zkušenostech poměrně lehké poznat. Nejspíše si ji můžete splést se stopou kuny. Stopa kuny je také pětiprstá, ale menší, zhruba 4 cm, maximálně 5. Výrazný rozdíl jsou drápy: zatímco kuna je má tenké a ostré, vydří jsou široké a tupé, přiléhají hned k polštářku. Při stopování pomůže také stopní dráha - zatímco vydra vylézá z vody ven a zpět do toku, kuna putuje podél břehu toku či rybníka._
+_Vydří stopu je při základních zkušenostech poměrně lehké poznat. Nejspíše si ji můžete splést se stopou kuny. Stopa kuny je také pětiprstá, ale menší, zhruba 4 cm, maximálně 5. Výrazný rozdíl jsou drápy: zatímco kuna je má tenké a ostré, vydří jsou široké a tupé, přiléhají hned k polštářku. Při stopování pomůže také stopní dráha - zatímco vydra vylézá z vody ven a zpět do toku, kuna putuje podél břehu toku či rybníka._
 
 ![](/media/vydra-kuna-stopa.jpg)
 
