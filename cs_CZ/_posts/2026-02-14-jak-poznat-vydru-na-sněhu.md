@@ -76,8 +76,6 @@ _Ve stopní dráze či na značkovacích místech můžete také najít vydří 
 
 ![vydří trus](/media/vydra_trus_nasnehu.jpg "vydří trus")
 
-
-
 Schématický nákres stopy vydry
 
 ![vydří stopa](/media/stopy_vydra.jpg "vydří stopa")
